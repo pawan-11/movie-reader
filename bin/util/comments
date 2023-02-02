@@ -1,0 +1,34 @@
+		/*
+		
+		
+StackTraceElement[] stacktrace = Thread.currentThread().getStackTrace();
+	StackTraceElement e = stacktrace[2];//maybe this number needs to be corrected
+	String methodName = e.getMethodName();
+	System.out.println(methodName);
+	
+					try (TextToSpeechClient textToSpeechClient = TextToSpeechClient.create()) {
+						SynthesisInput input = SynthesisInput.newBuilder().setText(q).build();
+						
+					    VoiceSelectionParams voice =
+					            VoiceSelectionParams.newBuilder()
+					                .setLanguageCode("en-US")
+					                .setSsmlGender(SsmlVoiceGender.NEUTRAL)
+					                .build();
+					    
+					    AudioConfig audioConfig =
+					            AudioConfig.newBuilder().setAudioEncoding(AudioEncoding.MP3).build();
+	
+					    SynthesizeSpeechResponse response =
+					            textToSpeechClient.synthesizeSpeech(input, voice, audioConfig);
+					    
+					    ByteString audioContents = response.getAudioContent();
+					      // Write the response to the output file.
+					    try (OutputStream out = new FileOutputStream("output.mp3")) {
+					    	out.write(audioContents.toByteArray());
+					    	System.out.println("Audio content written to file \"output.mp3\"");
+					    }
+					} catch (IOException e) {
+						// TODO Auto-generated catch block
+						e.printStackTrace();
+					}
+				    */

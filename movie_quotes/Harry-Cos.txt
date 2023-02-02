@@ -1,0 +1,1002 @@
+4648~harry~I can't, Hedwig. I'm not allowed to use magic outside of school. Besides, if Uncle Vernon --
+4649~uncle vernon~Har-ry Pot-ter!
+4650~harry~Now you've done it.
+4651~uncle vernon~I warned you. If you can't control that bloody bird, it'll have to go.
+4652~harry~She's bored. If I could just let her out for an hour or two --
+4653~uncle vernon~And have you sending secret messages to your freaky little friends? No, sir.
+4654~harry~But I haven't gotten any messages. From any of my friends. Not one. All summer.
+4655~dudley~Who'd want to be friends with you?
+4656~uncle vernon~I should think you'd be more grateful. We raise you since you were a baby, give you food off our table, even let you have Dudley's second bedroom... purely out of the goodness of our hearts.
+4657~dudley~I thought he got the second bedroom because Mum was afraid he'd turn us into dung beetles if you put him back in the cupboard under the stairs.
+4658~aunt petunia~Not yet, popkin. That's for when the Masons arrive.
+4659~uncle vernon~Which should be any moment. Now. Let's run through our schedule one more time. Petunia, when the Masons get here, you will be --
+4660~aunt petunia~In the lounge, waiting to welcome them graciously to our home.
+4661~uncle vernon~Good. And Dudley?
+4662~dudley~I'll be waiting to open the door.
+4663~uncle vernon~Excellent. And you?
+4664~harry~I'll be in my bedroom, making no noise and pretending I don't exist.
+4665~uncle vernon~Too right you will. With any luck, this could well be the day I make the biggest deal of my career.
+4666~uncle vernon~Upstairs! Hurry!
+4667~dobby~Harry Potter! Such an honor it is!
+4668~harry~What... Who are you?
+4669~dobby~Dobby, sir. Dobby the house elf.
+4670~harry~I see. Not to be rude or anything, but this isn't a great time for me to have a house-elf in my bedroom.
+4671~dobby~Oh, yes, sir, Dobby understands. It's just that, Dobby has come to tell you... it is difficult, sir... Dobby wonders where to begin.
+4672~harry~Why don't you sit down?
+4673~dobby~S-s-sit down?
+4674~harry~Shhhh! I'm sorry. I didn't mean to offend you or anything --
+4675~dobby~Offend Dobby! Dobby has heard of your greatness, sir, but never has he been asked to sit down by a wizard, like an equal...
+4676~harry~You can't have met many decent wizards then.
+4677~dobby~Bad Dobby! Bad Dobby!
+4678~uncle vernon~Don't mind that. It's just the... cat.
+4679~dudley~Cat? What cat?
+4680~uncle vernon~Our cat, tiger.
+4681~harry~Are you... all right?
+4682~dobby~Dobby had to punish himself, sir. Dobby almost spoke ill of his family, sir.
+4683~harry~Your... family?
+4684~dobby~The wizard family Dobby serves, sir. Dobby is bound to serve one family forever. If they ever knew Dobby was here...
+4685~dobby~But Dobby had to come. Dobby has to protect Harry Potter. To warn him. Harry Potter must not go back to Hogwarts School of Witchcraft and Wizardry this year.
+4686~harry~Not go back? But... I have to.
+4687~dobby~This is a plot. A plot to make most terrible things happen. If Harry Potter goes back to school he will be in great danger.
+4688~harry~What terrible things? Who's plotting them?
+4689~harry~Okay! I understand. You can't say --
+4690~uncle vernon~They arrive at the ninth hole and --
+4691~mr. mason~Sounds as if that cat of yours has dragged something in with it, Dursley.
+4692~uncle vernon~Not to worry. I'll sort it out.
+4693~harry~Stop! Stop!
+4694~uncle vernon~What the devil are you doing up here! You've just ruined the punch line of my Japanese golfer joke. One more sound and you'll wish you'd never been born, boy!
+4695~harry~See why I've got to go back? I don't belong here. I belong in your world -- at Hogwarts. It's the only place I've got... friends.
+4696~dobby~Friends who don't even write to Harry Potter?
+4697~harry~Well, I expect they've been -- hang on, how do you know my friends haven't been writing me?
+4698~dobby~Harry Potter mustn't be angry with Dobby -- Dobby hoped if Harry Potter thought his friends had forgotten him... Harry Potter might not want to go back to school, sir...
+4699~harry~Give me those. Now.
+4700~harry~Dobby... Please... No...
+4701~dobby~Harry Potter must say he's not going back to school.
+4702~harry~I can't. Hogwarts is my home.
+4703~dobby~Then Dobby must do it, sir. For Harry Potter's own good.
+4704~uncle vernon~I'm sorry. It's our nephew. Very disturbed. Meeting strangers upsets him, so we kept him upstairs...
+4705~aunt petunia~We have ice cream...
+4706~uncle vernon~Go on. Read it.
+4707~harry~'Dear Mr. Potter. We have received intelligence that a Hover Charm was used at your place of residence at twelve minutes past seven this evening. As you know, underage wizards...'
+4708~uncle vernon~'... are not permitted to perform spells outside school.'
+4709~uncle vernon~You didn't tell us you weren't Allowed to use magic at home. Slipped your mind, didn't it?
+4710~uncle vernon~Well, I've got news for you, boy. I'm locking you up! And if you try to magic yourself out, they'll expel you! You're never going back to that school! Never!
+4711~dudley~I know what day it is.
+4712~harry~Well done, Dudley. Finally learned the days of the week, have you.
+4713~dudley~Today's your birthday. And nobody cares.
+4714~harry~It's no good turning your beak up. It's all we've got.
+4715~harry~Ron?
+4716~ron~Hiya, Harry.
+4717~harry~Fred? George? What're you doing here?
+4718~ron~Rescuing you, of course. Where's your trunk?
+4719~ron~Stand back.
+4720~harry~Hedwig!
+4721~uncle vernon~Petunia! He's getting away!
+4722~ron~Hold on, Harry!
+4723~uncle vernon~Oh no, boy! You and that bloody pigeon aren't going anywhere!
+4724~ron~Put your foot down, Fred!
+4725~ron~By the way, Harry. Happy Birthday.
+4726~fred~Hurry! Let's nip inside before Mum wakes up!
+4727~ron~It's not much.
+4728~harry~I think it's... brilliant!
+4729~mrs. weasley~WHERE... HAVE... YOU... BEEN?!
+4730~mrs. weasley~Harry! How wonderful to see you. Beds empty! No note! You could've died! You could've been seen! I don't blame you, of course, dear.
+4731~ron~They were starving him, Mum! There were bars on his window!
+4732~mrs. weasley~You best hope I don't put bars on your window, Ronald Weasley! Care for a spot of tea, Harry?
+4733~ginny~Mummy. Have you seen my jumper --
+4734~ron~Ginny. Been talking about you all summer. Dead annoying, really.
+4735~george~Dad's home!
+4736~mr. weasley~What a night! Nine raids! Nine!
+4737~harry~Raids?
+4738~ron~Dad works at the Ministry of Magic. In the Misuse of Muggle Artefacts Office.
+4739~harry~The Misuse of Muggle Artefacts...?
+4740~ron~That's when wizards bewitch something to drive Muggles mad. Shrinking door keys, that kind of thing. Dad loves Muggles. Thinks they're fascinating.
+4741~mr. weasley~Well now. Who are you?
+4742~ron~Harry, sir. Harry Potter.
+4743~mr. weasley~Good Lord, are you really? Ron's told us all about you, of course. When did you get here?
+4744~mrs. weasley~This morning. Your sons flew that enchanted car of yours to Surrey house and back last night.
+4745~mr. weasley~Did you now! How'd it go?! I... I mean... That was very wrong, boys. Very wrong indeed. So, Harry. You must know all about Muggles. Tell me, what exactly is the function of a parking meter?
+4746~mrs. weasley~That must be Errol with the post. Fetch him, will you, George?
+4747~george~It's our Hogwarts letters! And look. They've sent Harry's as well.
+4748~mr. weasley~Dumbledore must know you're here, Harry. Doesn't miss a trick, that man.
+4749~fred~This lot won't come cheap, Mum. The spellbooks alone...
+4750~mrs. weasley~We'll manage. Right then. There's only one place to get all of this.
+4751~harry/ron/fred/george~Diagon Alley!
+4752~mrs. weasley~You first, Harry dear.
+4753~ron~Harry's never traveled by Floo Powder before, Mum.
+4754~harry~Floo Powder?
+4755~mrs. weasley~Percy. Would you mind going first, so Harry can see how it's done?
+4756~percy~Certainly, Mother. Don't worry, Harry. It's simple enough.
+4757~percy~Diagon Alley.
+4758~mrs. weasley~Remember to speak clearly, dear!
+4759~ron~And mind you get out at the right grate!
+4760~harry~D-Dia-gon Alley!
+4761~mr. borgin~Mr. Malfoy! What a pleasure to see you again. If I may, just in today --
+4762~lucius malfoy~I'm not buying today, Mr. Borgin. But selling.
+4763~mr. borgin~Selling?
+4764~lucius malfoy~You have heard, of course, that the Ministry of Magic is conducting more raids. There are even rumors of a new Muggle Protection Act...
+4765~lucius malfoy~I have a few... ah... items at home that might prove embarrassing if the Ministry were to call. Certain poisons and the like...
+4766~mr. borgin~Hmmm... yes. I see...
+4767~draco~Can I have this?
+4768~mr. borgin~Ah, the Hand of Glory. Insert a candle and it gives light only to the holder. Best friend of thieves and plunderers. Your son has fine taste, sir.
+4769~lucius malfoy~Hopefully my son will amount to more than a thief, Mr. Borgin. Though if his marks don't pick up --
+4770~draco~It's not my fault the teachers have favorites. That Hermione Granger --
+4771~lucius malfoy~I would have thought you'd be ashamed that a girl of no wizarding family beat you in every exam.
+4772~mr. borgin~It's the same all over. Wizard blood is counting for less everywhere.
+4773~lucius malfoy~Not with me.
+4774~lucius malfoy~Very good. I'll expect you at the manor tomorrow. Come, Draco.
+4775~aged witch~Not lost are you, my dear?
+4776~harry~I'm fine, thanks. I'm just --
+4777~hagrid~HARRY! What d'yer think yer doin' down 'ere?
+4778~harry~Hagrid!
+4779~hagrid~Yer a mess! Skulkin' 'round Knockturn Alley. Dodgy place, Harry. Don't want no one ter see yeh down there. People'll be thinkin' yer up ter no good.
+4780~harry~I was lost, I -- Hang on. What were you doing down there?
+4781~hagrid~I was lookin' fer a Flesh Eatin' Slug Repellent. They're ruinin' the school cabbages.
+4782~hermione~Harry!
+4783~hermione~Hello, Hagrid. Oh, it's wonderful to see you two again.
+4784~hermione~Oculus Reparo.
+4785~harry~I need to remember that one.
+4786~hermione~C'mon. Everyone's been so worried.
+4787~mr. weasley~So you're dentists! Fascinating! I understand other Muggles quite fear you? Why is that?
+4788~mrs. weasley~Oh, Harry. Thank goodness. We hoped you'd only gone one grate too far. Come now. We're off to Flourish and Blotts.
+4789~hermione~Isn't it thrilling! Gilderoy Lockhart's going to be there! We can actually meet him! I mean, he's written almost the whole booklist!
+4790~harry~Who?
+4791~mrs. weasley~There he is!
+4792~ron~Mum fancies him.
+4793~short man~Out of the way! This is for The Daily Prophet!
+4794~gilderoy lockhart~It can't be Harry Potter?
+4795~gilderoy lockhart~Nice big smile, Harry. Together, you and I rate the front page. Ladies and gentlemen! What an extraordinary moment this is! When young Harry here stepped into Flourish and Blotts this morning to purchase my autobiography, Magical Me -- which, incidentally is celebrating its twenty-seventh week atop The Daily Prophet's Bestseller List -- he had no idea that he would, in fact, be leaving with my entire collected works! Free of charge!
+4796~harry~Thank you.
+4797~harry~You have these. I'll buy my own --
+4798~draco~Bet you loved that, didn't you, Potter? Famous Harry Potter. Can't even go into a bookshop without making the front page.
+4799~ginny~Leave him alone! He didn't want all that!
+4800~draco~Look, Potter. You've got yourself a girlfriend!
+4801~lucius malfoy~Silence, Draco! Ah... Mr. Potter. I don't believe we've met.
+4802~lucius malfoy~Forgive me, Mr. Potter. But your scar is legend. As, of course, is the wizard who gave it to you.
+4803~harry~He was a murderer.
+4804~lucius malfoy~Yes, a pity about your parents. Curious that you yourself should escape with a mere flesh wound. Curious, too, that you speak of him in the past. Surely, you don't think He-Who-Must-Not-Be- Named is gone forever.
+4805~harry~His name is Voldemort.
+4806~lucius malfoy~You must be very brave, Mr. Potter, to dare speak his name. Or foolish.
+4807~hermione~Fear of a name only increases fear of the thing itself.
+4808~lucius malfoy~You must be Miss Granger. Draco's told me all about you... and your parents. Muggles, aren't you?
+4809~mr. weasley~Ron! Harry! It's mad in here. Let's go outside.
+4810~lucius malfoy~Well, well, well -- Arthur Weasley.
+4811~mr. weasley~Lucius.
+4812~lucius malfoy~Busy time at the Ministry. All those raids. I hope they're paying you overtime.
+4813~lucius malfoy~Obviously not. Dear me. What's the use of being a disgrace to the name of wizard if they don't even pay you well for it.
+4814~mr. weasley~We have a very different idea about what disgraces the name of wizard, Lucius.
+4815~lucius malfoy~Clearly. The company you keep, Weasley. And I thought your family could sink no lower.
+4816~hagrid~Ignore 'im, Arthur.
+4817~lucius malfoy~Here, girl. Take your book. It's the best your father can give you.
+4818~hagrid~No Malfoy's worth listenin' ter. Rotten ter the core, the whole family...
+4819~mrs. weasley~Oh dear! The train'll be leaving any moment! All together now!
+4820~mrs. weasley~Go on, Ginny. You know what to do.
+4821~mrs. weasley~Come, Ginny. We'll get you a seat.
+4822~ron~We better hurry.
+4823~guard~What in blazes d'you two think you're doing?
+4824~harry~Sorry. Lost control of the trolley. Why can't we get through?
+4825~ron~I dunno. The gateway's sealed itself for some reason.
+4826~harry~The train leaves at exactly eleven o'clock. We've missed it.
+4827~ron~Can't hear a thing. Harry. If we can't get through, maybe Mum and Dad can't get back.
+4828~harry~Maybe we should go wait by the car.
+4829~ron~The car!
+4830~harry~This is mad. We can't drive to Hogwarts.
+4831~ron~Who says we're driving?
+4832~harry~You don't mean -- Ron, no.
+4833~ron~Look, who knows when Mum and Dad will get back. And we've got to get to school, haven't we? And even underage wizards are allowed to use magic if it's an absolute emergency. Least that's what Fred and George always say...
+4834~harry~Something tells me we're going to regret this.
+4835~harry~No offense, Ron, but are you sure you know how to fly this.
+4836~ron~No problem.
+4837~ron~There. See. Now I reckon all we have to do is find the Hogwarts Express and follow it. Simple.
+4838~harry~Uh, Ron. I should tell you. Most Muggles aren't accustomed to seeing a flying car.
+4839~ron~Right.
+4840~ron~Uh oh. The Invisibility Booster must be faulty.
+4841~ron~Any sign of the train?
+4842~harry~There! Up ahead! Look...
+4843~ron~Brilliant.
+4844~ron~It must be around here someplace.
+4845~harry~Do you hear that?
+4846~harry/ron~Aaaahhhhh!
+4847~ron~Take my hand!
+4848~ron~Hold on!
+4849~harry~I'm trying! Your hand's all sweaty!
+4850~harry~I think we found the train.
+4851~ron~Welcome home, Harry.
+4852~harry~Just out of interest, Ron. Have you ever landed a car before?
+4853~ron~Well... no. but, until a few hours ago, I'd never taken off in one either.
+4854~ron~Uh oh.
+4855~ron~IT'S NOT WORKING!
+4856~harry~UP! UP!
+4857~harry~MIND THAT TREE!
+4858~harry~TURN! TURN!
+4859~ron~STOP! STOP! STOP!
+4860~ron~My wand! Look at my wand!
+4861~harry~Be thankful it's not your neck.
+4862~ron~What's happening?
+4863~harry/ron~Aaaaahhhhh!
+4864~ron~What kind of tree is this?
+4865~harry/ron~Aaaaahhhhh!
+4866~harry~Reverse! Reverse!
+4867~ron~Dad's going to kill me.
+4868~harry~A house elf shows up in my bedroom, we can't get through the barrier to Platform Nine and Three Quarters, we almost get killed by a tree... clearly someone doesn't want me here this year.
+4869~filch~Well, take a good look, lads...
+4870~filch~This night might well be the last you spend in this castle.
+4871~snape~You were seen! By no less then seven Muggles. Do you have any idea how serious this is? You have risked the exposure of our world. Not to mention the damage you inflicted on a Whomping Willow that has been on these grounds for hundreds of years.
+4872~ron~Honestly, Professor Snape, I think it did more damage to us.
+4873~snape~Silence! I assure you, were you in Slytherin and your fate rested with me, the both of you would be on the train home tonight. As it is --
+4874~albus dumbledore~They are not.
+4875~harry~Professor Dumbledore. Professor McGonagall...
+4876~snape~Headmaster, these boys have flouted the Decree for the Restriction of Underage Wizardry. As such...
+4877~albus dumbledore~I'm well aware of our bylaws, Severus, having written more than a few myself. However, as Head of Gryffindor House, it is for Professor McGonagall to determine the appropriate action.
+4878~ron~We'll go and get our stuff.
+4879~professor mcgonagall~What are you talking about, Mr. Weasley?
+4880~ron~Well, you're going to expel us, aren't you?
+4881~professor mcgonagall~Not today, Mr. Weasley. But I must impress upon both of you the seriousness of what you have done. I will be sending owls to both of your families tonight. And you will each get a detention.
+4882~dumbledore~Splendid. Now, I suggest we return to the feast. There's a delicious-looking custard tart I want to sample.
+4883~harry~Mr. Filch. You dropped this...
+4884~neville~Detention. On the first day?
+4885~seamus~That must be some kind of record.
+4886~hermione~I should think you'd count yourself lucky that's all you got.
+4887~ron~I should think you'd mind your own business.
+4888~professor sprout~Welcome to Greenhouse Three, Second Years. Today, we will be re-potting Mandrakes. Now, who here can tell me the properties of the Mandrake? Yes, Miss Granger.
+4889~hermione~Mandrake, or Mandragora, is used to return those who have been transfigured to their original state. It's also quite dangerous. The Mandrake's cry is fatal to anyone who hears it.
+4890~professor sprout~Excellent. Ten points to Gryffindor. As our Mandrakes are only seedlings, their cries won't kill yet. However, they will knock you out for several hours. That is why I have provided each of you with a pair of earmuffs. If you would then...
+4891~professor sprout~Hm. Looks as though Mr. Longbottom neglected his muffs.
+4892~seamus~No, ma'am. He's just fainted.
+4893~professor sprout~Very well. We'll just leave him then. Come now. Four to a tray, plenty of pots to go round...
+4894~penelope clearwater~There's Nearly Headless Nick.
+4895~percy~Hello, Sir Nicolas.
+4896~nearly headless nick~Hello, Percy. Miss Clearwater.
+4897~ron~Say it. I'm doomed.
+4898~harry~You're doomed.
+4899~colin~Hiya, Harry. I'm Colin Creevey. I'm in Gryffindor too.
+4900~harry~Hello, Colin. Nice to meet --
+4901~colin~They're for my dad -- the pictures. He's a milkman, you know, a Muggle, like all our family's been until me. No one knew all the odd stuff I could do was magic till we got my letter from Hogwarts. Everyone just thought I was mental.
+4902~ron~Imagine that.
+4903~colin~Say, Harry. D'you think your friend could take a photo of me and you standing together? Ya' know, to prove I've met you?
+4904~dean thomas~Post is here!
+4905~ron~Bloody bird's a menace -- Oh... no.
+4906~seamus~Heads up, everyone. Weasley's gotten himself a Howler.
+4907~neville~Go on, Ron. I ignored one from my Gran once... and it was horrible.
+4908~mrs. weasley~RONALD WEASLEY! HOW DARE YOU STEAL THAT CAR! I AM ABSOLUTELY DISGUSTED! YOUR FATHER'S NOW FACING AN INQUIRY AT WORK AND IT'S ENTIRELY YOUR FAULT! IF YOU PUT ANOTHER TOE OUT OF LINE WE'LL BRING YOU STRAIGHT HOME! Oh, and Ginny dear. Congratulations on making Gryffindor. Your father and I are so proud.
+4909~harry~Look at it this way. How much worse can things get?
+4910~gilderoy lockhart~Let me introduce you to your new Defense Against the Dark Arts Teacher. Me. Gilderoy Lockhart, Order of Merlin, Third Class, Honorary Member of the Dark Force Defense League and five times winner of Witch Weekly's Most- Charming-Smile Award -- But I don't talk about that. I didn't get rid of the Bandon Banshee by smiling at her!
+4911~gilderoy lockhart~I see you've all bought a complete set of my books. Well done. I thought we'd start today with a little quiz. Nothing to worry about. Just to check how well you've read them, how much you've taken in...
+4912~ron~Look at these questions. They're all about him.
+4913~harry~'What is Gilderoy Lockhart's favorite color?'
+4914~ron~'What is Gilderoy Lockhart's greatest achievement to date?'
+4915~harry~'When is Gilderoy Lockhart's birthday and what would his ideal gift be?'
+4916~gilderoy lockhart~You have thirty minutes. Start -- now!
+4917~gilderoy lockhart~Tut, tut. Hardly any of you remembered my favorite color is lilac. But Miss Hermione Granger knew that my secret ambition is to rid the world of evil and market my own range of hair care potions. Good girl.
+4918~gilderoy lockhart~Now... be warned! It is my job to arm you against the foulest creatures known to wizardkind! You may find yourself facing your own worst fears in this room. Know only that no harm can befall you whilst I am here...
+4919~gilderoy lockhart~I must ask you not to scream. It might provoke them.
+4920~seamus~Cornish pixies?
+4921~gilderoy lockhart~Freshly caught Cornish pixies.
+4922~gilderoy lockhart~Laugh if you will, Mr. Finnegan, but pixies can be devilishly tricky little blighters. Let's see what you make of them now!
+4923~gilderoy lockhart~Come on now, round them up, round them up. They're only pixies. Peskipiski Pesternomi!
+4924~gilderoy lockhart~I'll ask you three to just nip the rest of them back into their cage.
+4925~ron~What do we do now?
+4926~hermione~Immobilus!
+4927~neville~Why is it always me?
+4928~ron~Can you believe him?
+4929~hermione~I'm sure Professor Lockhart just wanted to give us some hands-on experience.
+4930~harry~Hands on? Hermione, he didn't have a clue what he was doing.
+4931~hermione~Rubbish. Read his books. You'll see all the amazing things he's done.
+4932~ron~He says he's done.
+4933~wood~I spent the summer devising a whole new Quidditch program. We're going to train earlier, harder, and longer! What the... I don't believe it!
+4934~ron~Uh-oh. I smell trouble.
+4935~wood~Clear out, Flint! I booked the pitch for Gryffindor today.
+4936~flint~Easy, Wood. I've got a note.
+4937~wood~'I, Professor Severus Snape, do hereby give the Slytherin team permission to practice today, owing to the need to train their new Seeker.' You've got a new Seeker? Who?
+4938~harry~Draco?
+4939~draco~That's right. And that's not all that's new this year...
+4940~ron~Those are Nimbus Two Thousand Ones.
+4941~flint~A generous gift from Draco's father.
+4942~draco~That's right, Weasley. You see, unlike some, my father can afford to buy the best.
+4943~hermione~At least no one on the Gryffindor team had to buy their way in. They got in on pure talent.
+4944~draco~No one asked your opinion, you filthy little Mudblood.
+4945~wood~Save it for the match.
+4946~ron~You'll pay for that one, Malfoy! Eat slugs!
+4947~hermione~Ron! Say something!
+4948~colin~Wow! Can you hold him still, Harry?!
+4949~harry~Get out of the way, Colin! Let's take him to Hagrid. He'll know what to do.
+4950~hagrid~Got jus' the thing. Set 'im down on that chair o'er there.
+4951~hagrid~Better out than in. Who was he tryin' ter curse anyway?
+4952~harry~Malfoy. He called Hermione, well, I don't know exactly what it means...
+4953~hermione~He called me a Mudblood.
+4954~hagrid~He didn'!
+4955~hermione~It means dirty blood. Mudblood's a really foul name for someone who was Muggle-born. Someone with non-magic parents. Someone... like me. It's not a term one usually hears in civilized conversation.
+4956~hagrid~Yeh see, Harry. There are some wizards -- like Malfoy's family -- who think they're better than everyone else 'cause they're what people call pureblood.
+4957~harry~That's horrible.
+4958~ron~It's disgusting!
+4959~hagrid~An' it's codswallop ter boot. Dirty blood. There's 'ardly a wizard today that's not half-blood or less. If we 'adn't married Muggles we'd've died out long ago. Besides, they haven't invented a spell our Hermione can't do... Don' you think on it, Hermione. Don' you think on it fer a minute.
+4960~gilderoy lockhart~Harry, Harry, Harry... Can you possibly imagine a better way to serve detention than by helping me answer my fan mail?
+4961~gilderoy lockhart~Fame's a fickle friend, Harry. Celebrity is as celebrity does. Remember that.
+4962~voice~Come... come to me...
+4963~harry~What?
+4964~gilderoy lockhart~I was saying, six solid months at the top of the bestseller list! Broke all records!
+4965~harry~No... not you, that... voice.
+4966~gilderoy lockhart~Voice?
+4967~harry~That... voice. Didn't you hear it?
+4968~gilderoy lockhart~What are you talking about, Harry? I think we're getting a bit drowsy. Great Scott -- and no wonder -- look at the time! We've been here nearly four hours! Dinner's nearly done! If you hurry you might make pudding. Spooky how the time flies when one's having fun!
+4969~harry~Spooky.
+4970~voice~Blood... I smell blood...
+4971~voice~Let me rip you... let me kill you...
+4972~hermione~Harry!
+4973~harry~Did you hear it?
+4974~ron~Hear what?
+4975~harry~That... voice.
+4976~hermione~Voice? What voice?
+4977~harry~I heard it first in Lockhart's office and then again, just --
+4978~voice~Kill... Time to kill...
+4979~harry~It's moving. I think it's going to... kill.
+4980~ron~Harry, what are you doing?
+4981~hermione~'The Chamber of Secrets has been opened...?'
+4982~ron~What's that? Hanging underneath?
+4983~harry~That's Filch's cat. Mrs. Norris.
+4984~hermione~Look at that. Have you ever seen spiders act like that? Ron...?
+4985~ron~I... don't... like... spiders.
+4986~draco~Enemies of the heir, beware! You'll be next, Mudbloods!
+4987~filch~What's going on here? Go on now! Make way... Mrs. Norris! You! You've murdered my cat! I'll kill you! I'll --
+4988~dumbledore~Argus!
+4989~dumbledore~Everyone will proceed to their dormitories immediately. Everyone except you three.
+4990~gilderoy lockhart~It was definitely a curse that killed her -- probably the Transmogrifian Torture. Encountered it myself once, in Ouagadougou. The full story's in my autobiography...
+4991~dumbledore~She's not dead, Argus. She's been Petrified.
+4992~gilderoy lockhart~Precisely! So unlucky I wasn't there. I know the very countercurse that could have spared her...
+4993~dumbledore~But how she's been Petrified... I cannot say.
+4994~filch~Ask him! It's him that's done it. You saw what he wrote on the wall! Besides, he knows I'm -- I'm a Squib.
+4995~harry~It's not true, sir! I swear! I never touched Mrs. Norris -- And I don't even know what a Squib is.
+4996~filch~Rubbish! He saw my Kwikspell letter!
+4997~snape~If I might, Headmaster...
+4998~snape~Perhaps Potter and his friends were simply in the wrong place at the wrong time...
+4999~snape~However, the circumstances are suspicious. I, for one, don't recall seeing Potter at dinner.
+5000~gilderoy lockhart~I'm afraid that's my doing, Severus. You see, Harry was helping me answer my fan mail...
+5001~hermione~That's why Ron and I went looking for him, Professor. We'd just found him when Harry said...
+5002~snape~Yes, Miss Granger?
+5003~harry~When I said I wasn't hungry. We were heading back to the Common Room and... found Mrs. Norris.
+5004~dumbledore~Innocent until proven guilty.
+5005~filch~My cat has been Petrified! I want to see some punishment!
+5006~dumbledore~We will be able to cure her, Argus. As I understand it, Madam Sprout has a very healthy growth of Mandrakes. When they have matured, a potion will be made which will revive Mrs. Norris. In the meantime, I advise caution. To all.
+5007~ron~A Squib's someone who's born into a wizarding family but hasn't got any powers of their own. It's why Filch is trying to learn magic from a Kwikspell course. It's also why he hates students so much. He's bitter.
+5008~hermione~Harry. This voice. You said you heard it first in Lockhart's office?
+5009~harry~Yes.
+5010~hermione~And did he hear it?
+5011~harry~He said he didn't.
+5012~ron~Maybe he was lying.
+5013~hermione~I hardly think someone with Gilderoy Lockhart's credentials would lie to one of his students, Ronald. Besides, if you recall, we didn't hear anything either.
+5014~harry~You do believe me, don't you?
+5015~hermione~'Course we do. It's just... it's a bit weird, isn't it? You hear this voice and then... Mrs. Norris turns up Petrified.
+5016~harry~I can't explain it -- it was... scary. D'you think I should've told them -- Dumbledore and the others, I mean.
+5017~ron~Are you mad!
+5018~hermione~No, Harry. Even in the wizarding world, hearing voices isn't a good sign.
+5019~professor mcgonagall~Today, we will be turning animals into water goblets.
+5020~professor mcgonagall~Now, who would like to go first... Mr. Weasley?
+5021~professor mcgonagall~You must replace that wand, Mr. Weasley.
+5022~professor mcgonagall~Yes, Miss Granger?
+5023~hermione~Professor, I was wondering if you could tell us about the Chamber of Secrets?
+5024~professor mcgonagall~My subject is Transfiguration, Miss Granger.
+5025~hermione~Yes, Professor. But there seems to be very little written about the Chamber of Secrets. For those of us with a personal interest in the subject, that is... disturbing.
+5026~professor mcgonagall~Very well. You all know, of course, that Hogwarts was founded over a thousand years ago by the four greatest witches and wizards of the age:
+5027~professor mcgonagall~Godric Gryffindor, Helga Hufflepuff, Rowena Ravenclaw, and Salazar Slytherin. Three of the founders co-existed quite harmoniously. One did not.
+5028~ron~Three glasses who?
+5029~professor mcgonagall~Salazar Slytherin wished to be more selective about the students admitted to Hogwarts. He believed that magical learning should be kept within all-magic families. In other words, purebloods. Unable to sway the others, he decided to leave the school. According to legend, Slytherin had built a hidden chamber in this castle, known as the Chamber of Secrets. Shortly before departing, he sealed it until that time when his own true heir returned to the school. The heir alone would be able to open the Chamber of Secrets and unleash the horror within, and by so doing, purge the school of all those who, in Slytherin's view, were unworthy to study magic.
+5030~hermione~Muggle-borns.
+5031~professor mcgonagall~Yes. Naturally, the school has been searched many times for such a chamber. It has never been found.
+5032~hermione~Professor, what exactly does legend tell us lies within the Chamber?
+5033~professor mcgonagall~The Chamber is said to be home to something which the heir of Slytherin alone can control. It is said to be home... to a monster.
+5034~ron~D'you think it's true? D'you think there really is a Chamber of Secrets?
+5035~hermione~Yes. Couldn't you tell: McGonagall's worried. All the teachers are.
+5036~harry~But if there really is a Chamber of Secrets, and it's really been opened, that means...
+5037~hermione~The Heir of Slytherin has returned to Hogwarts. The question is, who is it?
+5038~ron~Let's think. Who do we know who thinks Muggle-borns are scum.
+5039~hermione~If you're talking about him --
+5040~ron~Of course! You heard him: 'You'll be next, Mudbloods'!
+5041~hermione~I heard him. But Malfoy? The Heir of Slytherin?
+5042~harry~Maybe Ron's right, Hermione. I mean, look at his family. The whole lot of them have been in Slytherin for centuries.
+5043~ron~Crabbe and Goyle must know. Maybe we could trick them into telling...
+5044~hermione~No. Even they aren't that thick. But there might be another way. Mind you, it would be difficult. Not to mention we'd be breaking about fifty school rules. And it would be dangerous. Very dangerous.
+5045~ron~When do we start?
+5046~hermione~Here it is: 'The Polyjuice Potion. Properly brewed, the Polyjuice Potion allows the drinker to transform himself temporarily into the physical form of another...'
+5047~ron~You mean, Harry and I drink some of this stuff and we turn into Crabbe and Goyle?
+5048~hermione~Yes.
+5049~ron~Wicked! Malfoy'll tell us anything!
+5050~hermione~Exactly. But it's tricky. I've never seen a more complicated potion. Lacewing flies, leeches, fluxweed. And, of course, we'll need a bit of whoever we want to change into too.
+5051~ron~Hang on now. I'm drinking nothing with Crabbe's toenails in it.
+5052~harry~How long will it take to make?
+5053~hermione~A month.
+5054~harry~A month? But if Malfoy is the heir of Slytherin... he could attack half the Muggle-borns in the school by then.
+5055~hermione~You didn't have to tell me that.
+5056~hagrid~Gallopin' Gorgons! Slytherin's flyin' like they got dragon fire in their brooms...
+5057~draco~All right there, Scarhead?
+5058~george~HARRY! WATCH OUT!
+5059~hagrid~Blimey, Harry's got 'imself a Rogue Bludger!
+5060~ron~Rogue Bludger?
+5061~hagrid~Look fer yerself! It's bin' tampered with!
+5062~hermione~You're joking, right? Besides, even with a proper wand, it's too risky. You could hit Harry.
+5063~draco~Training for the ballet, Potter?
+5064~hermione~Finite Incantatem!
+5065~gilderoy lockhart~Not to worry, Harry. I'll fix that arm of yours straight away.
+5066~harry~No... no... not you.
+5067~gilderoy lockhart~Poor boy doesn't know what he's saying. This won't hurt a bit...
+5068~gilderoy lockhart~Ah. Yes. Well, that can sometimes happen. The point is, the bones are no longer broken.
+5069~hagrid~Brok'n? He doesn't 'ave any bones at all!
+5070~madam pomfrey~He should have been brought straight to me! I can mend bones in a heartbeat -- but growing them back --
+5071~hermione~You will be able to, won't you?
+5072~madam pomfrey~I'll be able to, certainly, but it will be painful. You're in for a rough night, Potter. Regrowing bones is nasty business.
+5073~madam pomfrey~Well, what did you expect -- pumpkin juice?
+5074~colin~That was brilliant today, Harry! Brilliant!
+5075~madam pomfrey~Out! All of you! This boy's got thirty-three bones to regrow!
+5076~harry~Dobby!
+5077~dobby~Harry Potter came back to school. Dobby warned him. Harry Potter should have listened to Dobby. Harry Potter should have gone back home when he missed the train.
+5078~harry~It was you! You stopped the barrier from letting Ron and me through!
+5079~dobby~Indeed yes, sir. Dobby hid and watched for Harry Potter and sealed the gateway.
+5080~harry~You nearly got Ron and me expelled!
+5081~dobby~At least you would be away from here. Harry Potter must go home! Dobby thought his Bludger would be enough to make Harry Potter see --
+5082~harry~Your Bludger? You made that Bludger chase after me?
+5083~dobby~Dobby feels most aggrieved, sir. Dobby had to iron his hands...
+5084~harry~You'd better clear off before my bones come back, Dobby, or I might strangle you!
+5085~dobby~Dobby is used to death threats, sir. Dobby gets them five times a day at home.
+5086~harry~I don't suppose you could tell me why you're trying to kill me?
+5087~dobby~Not kill you, sir, never kill you! Dobby remembers how it was before Harry Potter triumphed over He Who Must Not Be Named. We house elves were treated like vermin, sir. Of course, Dobby is still treated like vermin...
+5088~harry~Why do you wear that thing, Dobby?
+5089~dobby~This, sir? 'Tis a mark of the house elf's enslavement. Dobby can only be freed if his master presents him with clothes. The family is careful not to pass Dobby so much as a sock, sir, for then he would be free to leave their house forever.
+5090~dobby~Terrible things are about to happen at Hogwarts! Harry Potter must not stay here now that history is to repeat itself!
+5091~harry~Repeat itself? You mean, this has happened before?
+5092~harry~Tell me, Dobby? When did this happen before? Who's doing it now?
+5093~dobby~Dobby cannot say, sir. Dobby only wants Harry Potter to be safe.
+5094~harry~Who is it?
+5095~madam pomfrey~What's happened?
+5096~dumbledore~There's been another attack.
+5097~professor mcgonagall~Perhaps he managed to get a picture of his attacker...
+5098~professor mcgonagall~What does this mean, Albus?
+5099~dumbledore~It means our students are in great danger, Minerva. Mr. Creevey was fortunate. If not for this... He would surely be dead.
+5100~professor mcgonagall~What sould I tell the staff, Albus?
+5101~dumbledore~Tell them the truth. Tell them Hogwarts is no longer safe. Tell them it's as we feared. The Chamber of Secrets is indeed open again.
+5102~hermione~Again? You mean, the Chamber of Secrets has been opened before?
+5103~ron~Of course! Don't you see? Lucius Malfoy must've opened it when he was at school here, and now he's told Draco how to do it.
+5104~hermione~Maybe. We'll have to wait for the Polyjuice Potion to know for sure.
+5105~ron~Enlighten me. Why are we brewing this potion in broad daylight, in the middle of a girls' lavatory? Don't you think we'll get caught?
+5106~hermione~Never. No one over comes in here.
+5107~ron~Why?
+5108~hermione~Moaning Myrtle.
+5109~ron~Who's Moaning Myrtle?
+5110~moaning myrtle~I'm Moaning Myrtle. I wouldn't expect you to know me. Who would ever talk about fat, ugly, miserable, moping, moaning Myrtle?
+5111~hermione~She's a little sensitive.
+5112~gilderoy lockhart~Gather round! Gather round! Can everyone see me? Can you all hear me? Excellent. In light of the dark events of recent weeks, Professor Dumbledore has granted me permission to start this little Dueling Club, to train you all up in case you ever need to defend yourselves as I myself have done on countless occasions -- for full details, see my published works.
+5113~justin finch-fletchley~That Lockhart's something, isn't he? Awfully brave chap. Justin Finch-Fletchley. Hufflepuff.
+5114~harry~Nice to meet you. I'm --
+5115~justin finch-fletchley~I know who you are. We all do. Even us Muggle-borns.
+5116~gilderoy lockhart~Let me introduce my assistant Professor Snape. He has sportingly agreed to help me with a short demonstration. Now I don't want any of you youngsters to worry. You'll still have your Potions Master when I'm through with him, never fear!
+5117~ron~What's the fun in that?
+5118~gilderoy lockhart~As you can see, we are holding our wands in the accepted combative position. On the count of three, we will cast our first spells. Neither of us will be aiming to kill, of course.
+5119~harry~I wouldn't bet on that.
+5120~gilderoy lockhart~One-two-three --
+5121~snape~Expelliarmus!
+5122~hermione~Do you think he's all right?
+5123~harry/ron~Who cares?
+5124~gilderoy lockhart~Well, there you have it. That was a Disarming Charm. As you see, I've lost my wand.
+5125~gilderoy lockhart~Ah, thank you, Miss Granger. Yes, an excellent idea to show them that, Professor Snape, but if you don't mind my saying so, it was very obvious what you were about to do. If I had wanted to stop you it would have been only too easy...
+5126~snape~Perhaps it would be prudent to first teach the students to block unfriendly spells, Professor.
+5127~gilderoy lockhart~An excellent suggestion, Professor Snape. Let's have a volunteer pair. Potter, Weasley, how about you?
+5128~snape~Weasley's wand causes devastation with the simplest spells. We'll be sending Potter to the hospital wing in a matchbox. Might I suggest someone from my own house. Malfoy, perhaps.
+5129~draco~Scared, Potter?
+5130~harry~You wish.
+5131~gilderoy lockhart~Wands at the ready! When I count to three, cast your charms to disarm your opponent -- only to disarm. We don't want any accidents. One, two --
+5132~harry~Rictusempra!
+5133~gilderoy lockhart~I said disarm only!
+5134~draco~Serpensortia!
+5135~snape~Don't move, Potter. I'll get rid of it for you.
+5136~gilderoy lockhart~Allow me!
+5137~harry~Leave him!
+5138~harry~LEAVE HIM!
+5139~justin-finch-fletchley~What are you playing at?
+5140~ron~Come on. Move. Now.
+5141~ron~You're a Parselmouth! Why didn't you tell us?
+5142~harry~I'm a what?
+5143~hermione~You can talk to snakes.
+5144~harry~I know. I mean, I accidentally set a python on my cousin Dudley at the zoo once. But so what? I bet loads of people here can do it.
+5145~hermione~No. They can't. It's not a very common gift, Harry. This is bad.
+5146~harry~What's bad? If I hadn't told that snake not to attack Justin --
+5147~ron~Oh, that's what you said to it.
+5148~harry~You were there! You heard me!
+5149~ron~I heard you speaking Parseltongue. Snake language.
+5150~harry~I spoke a different language? But I didn't realize -- how can I speak a language without knowing I can?
+5151~hermione~I don't know, Harry. But it sounded like you were egging the snake on or something. It was... creepy.
+5152~hermione~Harry, listen out me. There's a reason the symbol of Slytherin house is a serpent. Salazar Slytherin was a Parselmouth. He could talk to snakes too.
+5153~ron~Exactly. And now the whole school's going to think you're his great-great-great grandson or something.
+5154~harry~But I'm not. I... can't be.
+5155~hermione~He lived a thousand years ago. For all we know... you could be.
+5156~harry~Who am I, Hedwig? What am I?
+5157~ernie~So, anyway, I told Justin to hide up in our dormitory. I mean to say, if Potter's marked him down as his next victim, it's best he keep a low profile for a while.
+5158~hannah~But why would he want to attack Justin?
+5159~ernie~Justin let it slip to Potter that he was Muggle-born.
+5160~hannah~And you definitely think Potter's the Heir of Slytherin?
+5161~ernie~Hannah, he's a Parselmouth. Everyone knows that's the mark of a dark wizard. Have you ever heard of a decent one who could talk to snakes? They called Slytherin himself Serpent-tongue. Remember what was written on the wall: Enemies of the Heir Beware. Potter had some sort of run-in with Filch. Next thing we know, Filch's cat's attacked. That first-year Creevey's been annoying Potter. Then Creevey's attacked.
+5162~hannah~He always seems so nice, though. And, after all, he is the one who made You Know Who disappear.
+5163~ernie~That's probably why You Know Who wanted to kill him in the first place. Didn't want another Dark Lord competing with him.
+5164~hagrid~All righ', Harry?
+5165~harry~Hagrid... what're you doing here?
+5166~hagrid~Second one killed this term. Reckon it's either foxes or a Blood-Suckin' Bugbear. Need Dumbledore's permission ter put a charm round the hen-coop. Yeh sure yeh're all righ', Harry? Yeh look all hot an' bothered.
+5167~harry~It's nothing. I'd better get going. I've got a lot of studying...
+5168~harry~Professor, I swear I didn't --
+5169~professor mcgonagall~This is out of my hands, Potter. Mr. Filch, will you take care of this, please?
+5170~filch~Caught in the act. I'll have you out this time, Potter. Mark my words...
+5171~filch~Dark magic. That's what you've got, Potter. Even the air you breathe comes out poison. You're evil. Evil as they come...
+5172~professor mcgonagall~Sherbet lemon.
+5173~professor mcgonagall~Professor Dumbledore will be waiting for you.
+5174~sorting hat~Bee in your bonnet, Potter?
+5175~harry~Well, you see, I was wondering...
+5176~sorting hat~If I put you in the right house? Yes... you were particularly difficult to place. But I stand by what I said last year... you would have done well in Slytherin.
+5177~harry~You're wrong!
+5178~harry~Professor, your bird... I couldn't do anything... He just caught fire.
+5179~dumbledore~About time too. He's been looking dreadful for days. Pity you had to see him on a Burning Day. He's really very handsome most of the time. Fawkes is a phoenix, Harry. Phoenixes burst into flame when it is time for them to die and are reborn from the ashes.
+5180~dumbledore~Fascinating creatures, phoenixes. They can carry immensely heavy loads, their tears have healing powers, and they make highly faithful pets.
+5181~hagrid~It wasn't Harry, Professor Dumbledore!
+5182~dumbledore~Hagrid --
+5183~hagrid~I was talkin' ter 'im jus' before that kid was found. It can't've bin 'im!
+5184~dumbledore~Hagrid --
+5185~hagrid~I'll swear ter it in front o' the Ministry o' Magic --
+5186~dumbledore~HAGRID! I do not think that Harry has attacked anyone.
+5187~hagrid~Oh. Right. I'll wait outside then.
+5188~harry~You don't think it was me, Professor?
+5189~dumbledore~No, Harry. But I must ask you... is there anything you'd like to tell me. Anything at all?
+5190~harry~No, Professor. Nothing.
+5191~fred~Make way for the Heir of Slytherin! Seriously evil wizard coming through!
+5192~ron~Oh, c'mon, Harry. Fred's just having a laugh.
+5193~harry~He's the only one.
+5194~ron~Okay, so half the school thinks you're nipping off to the Chamber of Secrets every night. Who cares?
+5195~harry~Maybe they're right.
+5196~hermione~Harry!
+5197~harry~I didn't know I could speak Parseltongue. What else don't I know about myself? Maybe you can do something... even something horrible... and not know you did it.
+5198~hermione~You don't believe that, Harry, I know you don't. And if it makes you feel better, I just heard Malfoy's staying over for holiday, too.
+5199~ron~Why would that make anyone feel better?
+5200~hermione~Because, in a few days, the Polyjuice Potion's will be ready. In a few days... we may truly know who is the Heir of Slytherin.
+5201~hermione~Everything's set. We just need a bit of who you're changing into.
+5202~harry~Crabbe and Goyle.
+5203~hermione~And we also need to make sure that the real Crabbe and Goyle can't burst in on us while we're interrogating Malfoy.
+5204~ron~How?
+5205~hermione~I've got it all worked out. I've filled these with a simple Sleeping Draught. Simple, but powerful.
+5206~hermione~You know how greedy Crabbe and Goyle are. They won't leave the Christmas Feast until every last drop of trifle is gone.
+5207~hermione~Now, once they're asleep, hide them in a broom cupboard and pull out a few of their hairs.
+5208~ron~And whose hair are you ripping out?
+5209~hermione~I've already got mine.
+5210~hermione~Millicent Bulstrode. She's in Slytherin. I got this off her robes. All right then... I'm going to check on the Polyjuice Potion.
+5211~hermione~Remember. Just make sure Crabbe and Goyle find these.
+5212~ron~Have you ever heard of a plan where so many things could go wrong?
+5213~hermione~Did you get it?
+5214~hermione~I sneaked those out of the laundry.
+5215~hermione~I'm sure I've done everything right. It looks like the book said it should. Once we've drunk it, we'll have exactly one hour before we change back into ourselves.
+5216~ron~Now what?
+5217~hermione~We separate it into three glasses and add the hairs.
+5218~ron~Ugh. Essence of Crabbe...
+5219~ron~Think I'm gonna be sick...
+5220~ron~Harry?
+5221~harry~Ron?
+5222~ron~Bloody hell.
+5223~harry~We still sound like ourselves. You need to sound more like Crabbe.
+5224~ron~Bloody hell.
+5225~harry~Lower.
+5226~ron~Bloody hell.
+5227~harry~Less intelligent.
+5228~ron~Bloody hell.
+5229~harry~Excellent.
+5230~ron~Hey... Where's Hermione?
+5231~hermione~I -- I don't think I'm going. You go on without me.
+5232~harry~Hermione, are you okay?
+5233~hermione~Just go! You're wasting time!
+5234~ron~Don't swing your arms like that. Crabbe holds them sort of stiff.
+5235~ron~Yeah. That's better.
+5236~ron~What are you doing here?
+5237~ron~What are you doing here?
+5238~percy~I happen to be a prefect. You, on the other hand, have no business wandering the corridors at night. It's not safe these days.
+5239~percy~What're your names again?
+5240~draco~Crabbe. Goyle. Where have you been? Pigging out in the Great Hall all this time?
+5241~draco~And what are you doing down here, Weasley?
+5242~percy~Mind your attitude, Malfoy. You want to show a little bit more respect to a school Prefect!
+5243~draco~Come on, boys. Weasley thinks he's going to catch Slytherin's hair single-handed.
+5244~draco~Listen to this...
+5245~draco~'Arthur Weasley, Head of the Misuse of Muggle Artefacts Office, was today fined fifty Galleons for bewitching a Muggle car. "Weasley has brought the Ministry into disrepute," said Lucius Malfoy, a governor of Hogwarts. "He is clearly unfit to draw up our laws and his ridiculous Muggle Protection Act should be scrapped immediately."'
+5246~draco~Arthur Weasley loves Muggle so much he should snap his wand in half and go join them. You'd never know the Weasleys were purebloods, the way they behave. Embarrassment to the wizarding world. All of them.
+5247~draco~What's up with you, Crabbe?
+5248~ron~Stomachache.
+5249~draco~Well, go to the hospital wing and give all those Mudbloods a kick in the arse for me! You know, I'm surprised The Daily Prophet hasn't reported all these attacks yet. I suppose Dumbledore's trying to hush it all up. He'll be sacked if it doesn't stop soon. Father always said Dumbledore's the worst thing that's ever happened to this place.
+5250~harry~You're wrong!
+5251~draco~What? Did you say that I was wrong? You think there's someone here who's worse than Dumbledore?
+5252~harry~Harry Potter.
+5253~draco~Good one, Goyle. You're absolutely right. Saint Potter. He's another one with no proper wizard feeling, or he wouldn't go around with that Mudblood Granger. And people actually think he's the Heir of Slytherin.
+5254~harry~Then you must have some idea who's behind it all?
+5255~draco~You know I haven't, Goyle. How many times do I have to tell you? But my father did say this much: It's been fifty years since the Chamber was opened. He wouldn't tell me who opened it -- only that they were expelled -- but I know this: the last time the Chamber of Secrets was opened, a Mudblood died.
+5256~draco~So it's only a matter of time before one of them's killed this time. As for me... I hope it's Granger.
+5257~draco~What's the matter with you two? You're acting very... odd.
+5258~ron~Ho!
+5259~draco~Hey! Where are you going?
+5260~ron~That was close!
+5261~harry~Hermione, come out. We've got loads to tell you!
+5262~hermione~Go away!
+5263~moaning myrtle~Ooh, wait till you see. It's awful!
+5264~hermione~Do you remember me telling you the Polyjuice Potion was only for human transformations...?
+5265~hermione~It was cat hair I plucked off Millicent Bulstrode's robes! Look at my face!
+5266~ron~Look at your tail.
+5267~hermione~Oh, good. Put those anywhere.
+5268~ron~Madam Pince asked that we relay a message to you, Hermione: She'd appreciate it if you'd leave a few books for the rest of the school.
+5269~hermione~I've got to keep up, haven't I?
+5270~ron~Is that thing ever going away?
+5271~hermione~Any day now, according to Madam Pomfrey. I'm just thankful I've stopped coughing up fur balls.
+5272~ron~We all are, believe me.
+5273~hermione~Now. What about the Chamber of Secrets? Any new leads?
+5274~harry~Nothing.
+5275~hermione~And has it gotten any better? I mean... is anyone speaking to you?
+5276~harry~Neville asked to borrow a tubeworm in Potions yesterday. I suppose that's something.
+5277~ron~'To Miss Granger. Wishing you a speedy recovery, from your concerned teacher Gilderoy Lockhart.' You sleep with this under your pillow?
+5278~hermione~Of course not. I don't know how that got there. Now go. I still have six hundred pages to read in Transformation Through the Ages.
+5279~ron~I know Hermione's mental, but can you believe she falls for that smarmy nonsense of Lockhart's?
+5280~harry~Looks like Myrtle's flooded the bathroom.
+5281~ron~Yuck.
+5282~moaning myrtle~Come to throw something else at me?
+5283~harry~Why would I throw something at you?
+5284~moaning myrtle~Don't ask me. Here I am, minding my own business, and someone thinks it's funny to throw a book at me...
+5285~ron~But it can't hurt if someone throws something at you. I mean, it'd just go right through you, wouldn't it?
+5286~moaning myrtle~Oh sure! Let's all throw books at Myrtle, because she can't feel it! Ten points if you can get it through her stomach. Fifty points if it goes through her head!
+5287~harry~Who threw it at you anyway?
+5288~moaning myrtle~I don't know. I didn't see them. I was just sitting in the U-bend, thinking about death and it fell through the top of my head.
+5289~ron~Fifty points if you can get it through her nose.
+5290~moaning myrtle~I HEARD THAT!
+5291~harry~This is a diary. And it's old...
+5292~ron~It's a diary, it's old... and was most recently in a toilet, Harry.
+5293~ron~Are you mad? That could be cursed. Dad once told me about a book the Ministry confiscated that burned the eyes out of anyone who tried to read it.
+5294~harry~I'll take my chances... Ahhh! MY EYES! MY EYES!
+5295~harry~Ginny! I was only joking -- Brilliant. Even your sister thinks I'm the monster now.
+5296~ron~Who doesn't?
+5297~ron~Tin Marvolo Riddle? Hang on. I know that name... Of course! The night I had detention... My job was to polish the silver in the trophy room. I remember because I kept burping slugs all over Tom Riddle's trophy. I must have wiped slime off his name for an hour.
+5298~harry~That's odd. He never wrote in it.
+5299~hermione~Tom Riddle... Hm. And Ron said he won an award fifty years ago?
+5300~harry~Special Services to the School or something --
+5301~hermione~Fifty years ago? You're sure?
+5302~harry~Yes. Why?
+5303~hermione~Don't you remember what Malfoy told you? The last time the Chamber of Secrets was opened was --
+5304~harry~Fifty years ago! That means --
+5305~hermione~Tom Riddle was here, at Hogwarts, when it happened. What if he wrote about what he saw? It's possible he knew where the Chamber was, how to open it, even what sort of creature lives in it. If so, whoever's behind the attacks this time wouldn't want a diary like this lying around, would they?
+5306~harry~That's a brilliant theory, Hermione. With just one tiny little flaw. There's nothing written in this diary.
+5307~hermione~It might be invisible ink. Aparecium!
+5308~hermione~I don't know, Harry. But I think you should be careful with this. Something tells me Ron might be right. It could be dangerous.
+5309~harry~You don't think I'm dangerous, do you, Hermione? I mean, you're not scared. Of me.
+5310~hermione~I'm scared, Harry. But not of you.
+5311~harry~Do... you... know... anything... about... the... Chamber... of... Secrets?
+5312~harry~Can... you... tell... me?
+5313~harry~Excuse me. Could you tell me where I am? Hello...?
+5314~voice~Riddle.
+5315~tom riddle~Professor Dumbledore.
+5316~dumbledore~It's not wise to be wandering around this late, Tom.
+5317~tom riddle~Yes, Professor. I suppose I -- I just had to see for myself, if...
+5318~tom riddle~... the rumors were true.
+5319~dumbledore~I'm afraid they are, Tom.
+5320~tom riddle~About the school as well? They wouldn't really close Hogwarts, would they, Professor?
+5321~dumbledore~Headmaster Dippet may have no choice, I'm afraid.
+5322~tom riddle~Sir? If it all stopped. If the person responsible was caught...
+5323~dumbledore~Is there something you wish to tell me, Tom?
+5324~tom riddle~No, sir. Nothing.
+5325~dumbledore~Very well then. Hurry along.
+5326~voice~C'mon, Aragog. Gotta get yeh outta here... C'mon now.. in the box...
+5327~tom riddle~Evening, Hagrid.
+5328~tom riddle~I'm going to have to turn you in, Hagrid. I don't think you meant it to kill anyone --
+5329~young hagrid~No, yeh can't! Yeh don' understand!
+5330~tom riddle~Hagrid. The dead girl's parents will be here tomorrow. The least Hogwarts can do is make sure the thing that killed their daughter is slaughtered.
+5331~young hagrid~It wasn' him! Aragog never'd kill no one! Never!
+5332~riddle~Monsters don't make good pets, Hagrid. Now... stand aside...
+5333~young hagrid~Noooooo!
+5334~harry~Ron!
+5335~ron~What? What's happened...?
+5336~harry~It was Hagrid. Hagrid opened the Chamber of Secrets fifty years ago.
+5337~hermione~It can't be Hagrid. It just can't be.
+5338~ron~We don't even know this Riddle. He sounds like a dirty, rotten snitch to me.
+5339~harry~The monster had killed someone, Ron. What would any of us done?
+5340~hermione~Look. Hagrid's our friend. Why don't we just go ask him about it?
+5341~ron~That'd be a cheerful visit. Hullo, Hagrid. Tell us, have you been setting anything mad and hairy loose in the castle lately?
+5342~hagrid~Mad an' hairy? Wouldn' be talkin' 'bou me, now would yeh?
+5343~harry/ron/hermione~No!
+5344~harry~What's that you've got, Hagrid?
+5345~hagrid~Flesh-Eatin' Slug Repellent. Fer the Mandrakes, yeh know. Accordin' ter Professor Sprout, they still got a bit o' growin' up ter do, but once their acne clears up, we'll be able to chop 'em up, stew 'em, an' get those people in the hospital un-Petrified. 'Til then, you three best watch yerselves, all righ'?
+5346~neville~Harry, I don't know who did it, but... you'd better come.
+5347~hermione~It had to be a Gryffindor. Nobody else knows our password. Unless, it wasn't a student...
+5348~ron~Well, whoever it was, they were looking for something.
+5349~harry~And they found it... Tom Riddle's diary is gone.
+5350~ron~Hey, Ginny! Going to the match?
+5351~ron~I tell you, she gets weirder and weirder by the day...
+5352~voice~Kill this time... Let me rip... Tear.
+5353~ron~No... don't tell me...
+5354~hermione~Harry... I think I've just understood something! I've got to go to the library!
+5355~harry~What do you understand!
+5356~harry~The library?
+5357~ron~That's Hermione. When in doubt, go to the library
+5358~wood~Listen up now. We play our game, Hufflepuff doesn't stand a chance. We're stronger, quicker, smarter.
+5359~george~Not to mention they're dead terrified Harry'll Petrify them if they fly anywhere near him.
+5360~wood~That, too.
+5361~wood~Professor McGonagall --
+5362~professor mcgonagall~This match has been cancelled.
+5363~wood~Cancelled! They can't cancel Quidditch --
+5364~professor mcgonagall~Silence, Wood! You will return to Gryffindor Tower now. Potter, you and I will find Mr. Weasley. There's something the both of you need to see.
+5365~professor mcgonagall~I warn you. This will be a bit of a shock.
+5366~ron~Hermione!
+5367~professor mcgonagall~She was found near the library. Along with this. Does it mean anything to either of you?
+5368~professor mcgonagall~All students will return to their house common rooms by six o'clock in the evening. You will be escorted to each lesson by a teacher. No exceptions. I should tell you all this. Unless the culprit behind these attacks is caught, it is likely that the school will be closed.
+5369~neville~Haven't any of the teachers noticed that the Slytherins are all safe? Isn't it obvious all this stuff's coming from Slytherin? The Heir of Slytherin, the monster of Slytherin -- why don't they just chuck all the Slytherins out?
+5370~seamus~They can't close Hogwarts. Where would we all go?
+5371~dean thomas~I don't care what anyone says. As long as Dumbledore's here, Hogwarts will be here.
+5372~harry~We've got to talk to Hagrid, Ron. I can't believe it's him. But if he did set the monster loose last time -- even by accident -- he'll know how to get inside the Chamber of Secrets. And that's a start.
+5373~ron~But you heard McGonagall. We're not allowed to leave the tower except for class --
+5374~harry~I think it's time to get my Dad's old Cloak out again.
+5375~hagrid~Who's there?
+5376~harry~What's that for?
+5377~hagrid~Nothin', nothin'. I've been expectin'... Doesn't matter. Sit down... I'll make tea...
+5378~harry~Are you okay? Hagrid? Did you hear about Hermione?
+5379~hagrid~Oh, yea. I heard, all righ'.
+5380~harry~Look... we have to ask you something. Do you know who's opened the Chamber of Secrets?
+5381~hagrid~C-come in.
+5382~dumbledore~Good evening, Hagrid.
+5383~ron~That's Dad's boss! Cornelius Fudge. The Minister of Magic!
+5384~fudge~Bad business, Hagrid. Very bad business. Had to come. Four attacks on Muggle-borns. Things've gone far enough. Ministry's got to act.
+5385~hagrid~I never... You know I never, Professor Dumbledore, sir...
+5386~dumbledore~I want it understood, Cornelius, that Hagrid has my full confidence.
+5387~fudge~Look, Albus, Hagrid's record's against him. I've got to take him.
+5388~hagrid~Take me? Where? Not Azkaban prison.
+5389~fudge~For a short stretch only. Not a punishment, Hagrid. More a precaution. If someone else is caught, you'll be released with a full apology.
+5390~lucius malfoy~Already here, Fudge? Good, good...
+5391~hagrid~What're you doin' here! Get outta my house!
+5392~lucius malfoy~My dear man, please believe me, I have no pleasure at all in being inside your -- do you call this a house? I simply called at the school and was told the Headmaster was here.
+5393~dumbledore~And what exactly did you want with me, Lucius?
+5394~lucius malfoy~Dreadful thing, Dumbledore, but the governors feel it's time for you to step aside. This is an Order of Suspension. You'll find all twelve signatures on it. I'm afraid we feel you're losing your touch. What with all these attacks, there'll be no Muggle- borns left at Hogwarts. And we all know what an awful loss that would be.
+5395~fudge~Now, see here, Lucius. Dumbledore suspended. No, no... last thing we want right now... If Dumbledore can't stop these attacks... I mean to say, who can?
+5396~lucius malfoy~That remains to be seen, but as all twelve governors have voted --
+5397~hagrid~An' how many did yeh have ter threaten before they agreed!
+5398~lucius malfoy~I would advise you not to shout at the Azkaban guards like that.
+5399~hagrid~Yeh can take Dumbledore! Take him away an' the Muggle-borns won' stand a chance! There'll be killin's next!
+5400~dumbledore~Calm yourself, Hagrid! If the governors want my removal, Lucius, I shall of course step aside. However... you will find that I will only truly have left this school when none here are loyal to me. You will also find that help will always be given at Hogwarts to those who... ask for it.
+5401~lucius malfoy~Admirable sentiments. We shall all miss your highly individual way of running things, Albus, and only hope your successor will manage to prevent any more, um, killin's.
+5402~hagrid~If anyone wanted ter find out some stuff, all they'd have ter do is follow the spiders. That'd lead 'em right! Tha's all I'm sayin'.
+5403~ron~Hagrid's right. With Dumbledore gone, there'll be an attack a day.
+5404~harry~Look...
+5405~harry~C'mon.
+5406~ron~What are you doing?
+5407~harry~You heard Hagrid. Follow the spiders.
+5408~ron~They're heading into the Dark Forest.
+5409~ron~Why spiders. Why couldn't it be 'Follow the butterflies'?
+5410~harry~There's something moving over there... something big.
+5411~ron~Harry!... Harry, it's our car!
+5412~harry~It's been here all the time! Look at it. The Forest has turned it wild.
+5413~harry~C'mon, we don't want to lose the trail.
+5414~ron~I don't have a good feeling about this, Harry --
+5415~harry~Don't panic.
+5416~aragog~You do not come from the forest. Your hearts beat like... men.
+5417~harry~Yes. We're friends of Hagrid's. And you... you're... ... Aragog, aren't you?
+5418~aragog~Hagrid has never sent men into our hollow before.
+5419~harry~He's in trouble. Up at school, there've been attacks. They think it's Hagrid. They think he's opened the Chamber of Secrets. Like before.
+5420~aragog~That's a lie! Hagrid never opend the Chamber of Secrets!
+5421~harry~But if Hagrid never... that means... you're not the monster.
+5422~aragog~The monster was born in the castle. I came from a distant land, in the pocket of a traveler.
+5423~ron~Harry...
+5424~harry~Shhh! But if you're not the monster, what did kill that girl fifty years ago?
+5425~aragog~We do not speak of it! It is an ancient creature we spiders fear above all others.
+5426~harry~But have you seen it?
+5427~aragog~I never saw any part of the castle but the cupboard in which Hagrid kept me. The girl was discovered in a bathroom. When I was accused, Hagrid brought me here.
+5428~harry~What!
+5429~harry~Well... thank you. We'll just go...
+5430~aragog~Go? I think not. My sons and daughters do not harm Hagrid, on my command. But I cannot deny them fresh meat when it wanders so willingly into our midst. Goodbye, friend of Hagrid.
+5431~ron~Can we panic now?
+5432~ron~Nice knowing you.
+5433~harry~Let's go!
+5434~harry~THE WINDOWS! ROLL UP THE WINDOWS!
+5435~ron~I CAN'T! IT'S STUCK!
+5436~ron~Thanks for that.
+5437~harry~Don't mention it.
+5438~harry~That way! It's the only way out! Hurry! They're catching up!
+5439~harry~Can you get us in the air?
+5440~ron~Flying gear's jammed!
+5441~ron~'Follow the spiders'! Follow the spiders'! If he ever gets out of Azkaban, I'll kill Hagrid. I mean, what was the point of sending us in there? What have we found out?
+5442~harry~We know one thing. Hagrid never opened the Chamber of Secrets. He was innocent.
+5443~madam pomfrey~There's no point in talking to a petrified person. She won't hear a word you're saying.
+5444~ron~We know that, Madam Pomfrey. It's just, well, you see, we thought, maybe, we could... be with her for a bit. She's our... friend, you see, and... even if she can't hear us... I mean, it can't hurt, can it?
+5445~madam pomfrey~Very well then. But be quick about it.
+5446~ron~You don't think Lockhart could be the heir of Slytherin, do you? Right. Forget I said it.
+5447~harry~Wish you were here, Hermione. We need you. Now more than ever...
+5448~harry~'Of the many fearsome beasts that roam our land, none is more deadly than the Basilisk. Capable of living for hundreds of years, instant death awaits any who meet this giant serpent's eye. Spiders flee before it and only the crowing of the rooster can kill it.' Ron! This is it! The monster in the Chamber of Secrets is a Basilisk. That's why I can hear it speak. It's a snake.
+5449~ron~But it kills by looking people in the eye. Why is it no one's dead?
+5450~harry~Because no one did look it in the eye. Not directly at least... Colin saw it through his camera. Justin -- Justin must've seen the Basilisk through Nearly Headless Nick! Nick got the full blast of it, but he's a ghost -- he couldn't die again...
+5451~harry~... And Hermione... had the mirror! I bet you anything she was using it to look round corners, in case it came along.
+5452~ron~And Mrs. Norris? I'm pretty sure she didn't have a camera or a mirror, Harry.
+5453~harry~The water... there was water on the floor that night. She only saw the Basilisk's reflection... The crowing of the rooster is fatal to it! That's why Hagrid's roosters were killed! Spiders flee before it! It all fits!
+5454~ron~But how's the Basilisk been getting around? A dirty great snake. Someone would have seen...
+5455~harry~Hermione answered that too.
+5456~ron~Pipes...? It's using the plumbing.
+5457~harry~Remember what Aragog said? About that girl fifty years ago? She died in a bathroom. What if she never left.
+5458~ron~Moaning Myrtle!
+5459~professor mcgonagall~All students are to return to their house dormitories at once. All teachers to the second floor corridor. Immediately.
+5460~professor mcgonagall~As you can see, the Heir of Slytherin has left another message. Our worst fear has been realized. A student has been taken by the monster. Into the Chamber itself. I'm afraid we shall have to send the students home. I'm afraid... this is the end of Hogwarts.
+5461~gilderoy lockhart~So sorry. Dozed off. What have I missed?
+5462~snape~Just the man. A girl has been snatched by the monster, Lockhart. Your moment has come at last.
+5463~gilderoy lockhart~My m-moment?
+5464~snape~Weren't you saying just last night that you've known all along where the entrance to the Chamber of Secrets is?
+5465~gilderoy lockhart~D-did I? I don't recall...
+5466~professor mcgonagall~That settles it. We'll leave it to you to deal with the monster, Gilderoy. Your skills, after all, are legend.
+5467~gilderoy lockhart~V-very well. I'll -- I'll be in my office, getting -- getting ready.
+5468~professor mcgonagall~The rest of us should go and inform the students what has happened.
+5469~professor sprout~Who is it the monster's taken, Minerva?
+5470~professor mcgonagall~Ginny Weasley.
+5471~ron~She knew something, Harry. She'd found out something about the Chamber of Secrets. That's why she was taken. I mean, she was -- is -- a pure-blood. There can't be any other reason.
+5472~harry~C'mon. Let's go see Lockhart. He may be a brainless git, but he's going to try and get into the Chamber. We can tell him what we know...
+5473~ron~Harry. D'you think there's any chance at all she's not, you know --
+5474~harry~We'll find her, Ron. Ginny's going to be fine.
+5475~harry~Professor, we've got some information for you --
+5476~harry~Are you going somewhere?
+5477~gilderoy lockhart~Um, well, yes. Urgent call. Unavoidable. Got to go...
+5478~ron~What about my sister?
+5479~gilderoy lockhart~Well, as to that -- most unfortunate. No one regrets more than I --
+5480~ron~You're the Defense Against the Dark Arts teacher! You can't go now!
+5481~gilderoy lockhart~I must say, when I took the job, nothing in the job description --
+5482~harry~You're running away? After all that stuff you did in your books?
+5483~gilderoy lockhart~Books can be misleading.
+5484~harry~You wrote them!
+5485~gilderoy lockhart~My dear boy, do use your common sense. My books wouldn't have sold half as well if people didn't think I'd done all those things. No one wants to read about some ugly old Armenian warlock, even if he did save a village from werewolves. He'd look dreadful on the front cover. No dress sense at all...
+5486~harry~You're a fraud! You've just been taking credit for what a load of other wizards have done!
+5487~gilderoy lockhart~Harry, Harry, Harry. There was work involved. I had to track these people down and ask them exactly how they managed to do what they did. No, it's not all book signings and publicity photos. You want fame, you have to be prepared for a long, hard slog.
+5488~ron~Is there anything you can do?
+5489~gilderoy lockhart~Yes, now that you mention it. I'm rather gifted with Memory Charms. Otherwise, you see, all those wizards would've gone blabbing and I'd never have sold another book. I'm afraid I'll have to do the same to you both, lest you do the same.
+5490~harry~Expelliarmus!
+5491~harry~Looks like those Dueling Lessons came in handy after all, Professor.
+5492~moaning myrtle~Who's there? Oh... Hello, Harry. What do you want?
+5493~harry~To ask you how you died.
+5494~moaning myrtle~Oooooh, it was dreadful. It happened right here. In this very cubicle. I'd hidden because Olive Hornby was teasing me about my glasses. I was crying, and then I heard somebody come in.
+5495~harry~Who was it, Myrtle?
+5496~moaning myrtle~I don't know! I was distraught! But they said something funny. A kind of made-up language. And I realized it was a boy speaking. So I unlocked the door, to tell him to go away, and... I died.
+5497~harry~Just like that? How?
+5498~moaning myrtle~No idea. I just remember seeing a pair of great big yellow eyes. Over there...
+5499~harry~This is it, Ron. This is the entrance to the Chamber of Secrets.
+5500~ron~Say something, Harry. Say something in Parseltongue.
+5501~harry~Open up.
+5502~ron~English.
+5503~gilderoy lockhart~Excellent, Harry. Good work. Well then. I'll just be going. There's no need for me...
+5504~harry~Oh, yes there is. You first.
+5505~gilderoy lockhart~Now, boys. What good will it do?
+5506~ron~A bloody lot of good if it's a two-hundred-foot drop onto jagged rocks.
+5507~gilderoy lockhart~It's really quite filthy down here.
+5508~harry~All right. Let's go.
+5509~moaning myrtle~Oh, Harry... if you die down there, you're welcome to share my toilet.
+5510~harry~Thanks, Myrtle.
+5511~harry~Lumos!
+5512~harry~Remember. Any sign of movement, close your eyes straight away.
+5513~ron~What's that? Up ahead?
+5514~gilderoy lockhart~That looks like a... snake.
+5515~harry~Maybe it's asleep.
+5516~ron~Bloody hell. Whatever shed this must be twenty feet long. Or more.
+5517~ron~Heart of a lion, this one.
+5518~gilderoy lockhart~The adventure ends here, boys! But don't fret. The world will know our story. How I was too late to save the girl. How you two tragically lost your minds at the sight of her mangled body. I'll even bind a limited edition in this snake skin. Say goodbye to your memories. Obliviate!
+5519~harry~Ron? Are you okay?
+5520~ron~I'm okay. This git's not, though. He got blasted by my wand.
+5521~ron~What now?
+5522~harry~Wait here. I'll go on. I'll go on and... find Ginny. If I'm not back in an hour...
+5523~ron~I'll try and shift some of this rock. So you can get back through. And, Harry --
+5524~harry~See you in a bit.
+5525~harry~Open.
+5526~harry~Ginny! Please don't be dead. Wake up! Wake up!
+5527~tom riddle~She won't wake.
+5528~harry~Tom... Tom Riddle? What d'you mean, she won't wake? She's not...
+5529~tom riddle~She's still alive. But only just.
+5530~harry~Are you a ghost?
+5531~tom riddle~A memory. Preserved in a diary for fifty years.
+5532~harry~She's cold as ice. You've got to help me, Tom. There's a basilisk --
+5533~tom riddle~It won't come until it's called.
+5534~harry~Give me my wand, Tom.
+5535~tom riddle~You won't be needing it.
+5536~harry~Listen, we've got to go! We've got to save her!
+5537~tom riddle~I'm afraid I can't do that, Harry. You see, as poor Ginny grows weaker... I grow stronger.
+5538~harry~But she's dying!
+5539~tom riddle~Yes. I'm afraid so. But then, she's been in so much pain, poor Ginny. She's been writing to me for months, telling me all her pitiful worries and woes. Ginny poured her soul out to me. I grew stronger on a diet of her deepest fears, her darkest secrets. I grew powerful enough to start feeding Ginny a few secrets, to start pouring a bit of my soul back into her...
+5540~tom riddle~Yes, Harry, it was Ginny Weasley who opened the Chamber of Secrets.
+5541~harry~No... she couldn't -- she wouldn't.
+5542~tom riddle~It was Ginny who set the Basilisk on the Mudbloods and the Squib's cat. Ginny who wrote threatening messages on the walls.
+5543~harry~But... Why?...
+5544~tom riddle~Because I told her to. You'll find that I can be very persuasive. Not that she knew what she was doing. She was, shall we say, in a kind of trance. Still, the power of the diary began to scare her and she tried to dispose of it in the girls' bathroom. But then, who should find it... but you. The very person I was most anxious to meet.
+5545~harry~And why did you want to meet me?
+5546~tom riddle~Ginny told me all about you. I knew I had to talk to you, meet you if I could. So I decided to show you my capture of that brainless oaf, Hagrid, to gain your trust.
+5547~harry~Hagrid's my friend. And you framed him, didn't you?
+5548~tom riddle~It was my word against Hagrid's. Only Dumbledore seemed to think Hagrid was innocent.
+5549~harry~I'll bet Dumbledore saw right through you.
+5550~tom riddle~I knew it wouldn't be safe to open the Chamber again while I was still at school. So I decided to leave behind a diary, preserving my sixteen-year-old self in its pages, so that one day... I would be able to lead another to finish Salazar Slytherin's noble work.
+5551~harry~Well, you haven't finished it this time. In a few hours Mandrake Draught will be ready and everyone who was petrified will be all right again.
+5552~tom riddle~Haven't I told you, that killing Mudbloods doesn't matter to me anymore? For many months now, my new target has been... you. Imagine my disappointment when I learned Ginny had stolen the diary back from you.
+5553~harry~Ginny stole the diary from my room? But why?
+5554~tom riddle~She was afraid. Afraid you'd learn how to work the diary. Afraid I'd tell you just who it was that had been strangling all those roosters.
+5555~tom riddle~Come now, Harry. Don't look so disappointed. Had Ginny succeeded in destroying the diary, she would have destroyed me. And we couldn't be having this little talk. And I have so many questions for you.
+5556~harry~Like what?
+5557~tom riddle~Well, how is it that a baby with no extraordinary magical talent managed to defeat the greatest wizard of all time? How did you escape with nothing but a scar, while Lord Voldemort's powers were destroyed?
+5558~harry~Why do you care how I escaped? Voldemort was after your time.
+5559~tom riddle~Voldemort is my past, present and future.
+5560~harry~You. You're the heir of Slytherin. You're Voldemort?
+5561~tom riddle~Surely you didn't think I would keep my filthy Muggle father's name?
+5562~tom riddle~No, I fashioned myself a new name, a name I knew wizards everywhere would one day fear to speak, when I became the greatest sorcerer in the world.
+5563~harry~Albus Dumbledore is the greatest sorcerer in the world!
+5564~tom riddle~Dumbledore's been driven out of this castle by the mere memory of me.
+5565~harry~He'll never be gone! Not as long as those who remain are loyal to him!
+5566~harry~Fawkes.
+5567~tom riddle~This is what Dumbledore sends his defender! A songbird and an old hat!
+5568~tom riddle~Speak to me, Slytherin.
+5569~tom riddle~Let's match the powers of Lord Voldemort, Heir of Salazar Slytherin, against the famous Harry Potter, shall we?
+5570~tom riddle~Kill him!
+5571~tom riddle~Parseltongue won't save you now, Potter. The Basilisk only obeys me.
+5572~harry~Don't look. Don't look into its eyes.
+5573~tom riddle~Fool! Think you're safe! It can still hear you!
+5574~tom riddle~Yes, Potter. The process is nearly complete. In a few minutes, Ginny Weasley will be dead. And I will cease to be a memory. Lord Voldemort will return. Very much... alive.
+5575~tom riddle~Remarkable, isn't it? How quickly the venom of the Basilisk penetrates the body? If you have any final words, Potter, you'd best speak them now. I'd guess you have little more than a minute to live.
+5576~tom riddle~So ends the famous Harry Potter. On his knees in the Chamber of Secrets. Defeated at last by the Dark Lord he so unwisely challenged. You'll be back with your dear Mudblood mother soon, Harry...
+5577~tom riddle~Funny, isn't it? The damage a silly little book can do? Especially in the hands of a silly little girl.
+5578~tom riddle~What are you doing? No. Stop...
+5579~tom riddle~No!
+5580~ginny~Harry. It was me! But I swear, I didn't mean to... Riddle made me. He wrote to me... took me over... I didn't even know whose diary it was. I found it inside my cauldron. The day we all went to Diagon Alley and... Harry. You're hurt...
+5581~harry~Ginny. You need to get yourself out... Follow the chamber... You'll find Ron...
+5582~harry~You were brilliant, Fawkes. I just... wasn't quick enough.
+5583~harry~Of course. Dumbledore told me. Phoenix tears have healing powers. It's all right, Ginny. It's over. It's just a memory...
+5584~ron~Ginny!
+5585~ron~You're alive. I can't believe it.
+5586~ginny~I'm going to be expelled, I just know it!
+5587~ron~Remind you of anyone?
+5588~harry~Where's Lockhart?
+5589~ron~His Memory Charm backfired. Hasn't got a clue who he is. I keep having to stop him wandering off. He's a danger to himself.
+5590~gilderoy lockhart~Hello. Odd sort of place, this, isn't it? Do you live here?
+5591~ron~No.
+5592~ron~What's with the bird?
+5593~harry~I think... I think he's telling me he can take us out of here.
+5594~gilderoy lockhart~Amazing! This is just like magic!
+5595~dumbledore~Ingenious. Simply... ingenious. Of course, Tom Riddle was probably the most brilliant student Hogwarts has ever seen. I taught him myself fifty years ago. After he left, I would occasionally hear stories of his activities -- dark rumors -- but after awhile, even the rumors stopped. When he finally resurfaced as Lord Voldemort, most people had completely forgotten the clever Head Boy he'd once been.
+5596~ginny~I didn't know whose diary it was, sir. I swear. I found it inside my cauldron. The day we all went to Diagon Alley.
+5597~ginny~But I understand if... given all the trouble I've caused... if you --
+5598~dumbledore~Wiser wizards than you have been hoodwinked by Lord Voldemort, Miss Weasley. No, I think you've endured enough. I would suggest a bit of bed rest, however. And perhaps a large mug of hot chocolate. I always find that cheers me up. Minerva, will you show Arthur and Molly up to the hospital wing?
+5599~professor mcgonagall~Certainly, Albus.
+5600~mrs. weasley~A diary that writes back to you! Honestly, Ginny! What were you thinking? Haven't I always told you? Never trust anything that can think for itself if you can't see where it keeps its brain!
+5601~dumbledore~You two realize, of course, that in the last few hours, you have broken perhaps a dozen school rules?
+5602~harry/ron~Yes, sir.
+5603~dumbledore~And that there is sufficient evidence to expel you both?
+5604~harry/ron~Yes, sir.
+5605~dumbledore~Therefore, it seems only fitting... That you both receive Special Awards for Services to the School. And -- let me see -- yes, I think two hundred points apiece, which, I believe, should be more than enough to secure Gryffindor the House Cup.
+5606~harry/ron~Thank you, sir.
+5607~dumbledore~Now, Mr. Weasley, if you would, have an owl deliver these release papers to Azkaban. We need our gamekeeper back.
+5608~dumbledore~First, Harry, I want to thank you. You must have shown me real loyalty down in the Chamber. Nothing but that could have called Fawkes to you. Secondly, I sense you're troubled by something. Am I right?
+5609~harry~It's just, you see, sir, I couldn't help noticing certain things. Certain similarities. Between Tom Riddle and me.
+5610~dumbledore~You can speak Parseltongue, Harry, because Lord Voldemort can speak Parseltongue. Unless I'm much mistaken, he transformed some of his own powers to you the night he gave you that scar.
+5611~harry~Voldemort put a bit of himself in me?
+5612~dumbledore~Not intentionally, but... yes.
+5613~harry~So the Sorting Hat was right. I should be a Slytherin.
+5614~dumbledore~It's true, Harry. You do possess many of the qualities Voldemort himself prizes. Resourcefulness. Determination. A certain disregard for the rules. Yet the Sorting Hat placed you in Gryffindor.
+5615~harry~Only because I asked it to.
+5616~dumbledore~Exactly. Which makes you very different from Voldemort. It's not our abilities that show what we truly are, Harry. It's our choices. If you want proof that you belong in Gryffindor, Harry, I suggest you look more closely at this.
+5617~harry~'Godric Gryffindor.'
+5618~dumbledore~Only a true Gryffindor could have pulled that out of the Hat.
+5619~harry~Dobby! This is your Master? The family you serve is the Malfoys!
+5620~lucius malfoy~Out of my way, Potter. So! You've returned!
+5621~dumbledore~Yes. When the governors heard that Arthur Weasley's daughter had been taken into the Chamber, they saw fit to summon me back. Curiously, several of them seemed under the impression that you would curse their families if they didn't agree to suspend me in the first place, Lucius.
+5622~lucius malfoy~From the beginning, my only concern has been the welfare of this school and its students. I assume the culprit has been identified.
+5623~dumbledore~Oh yes. It was Voldemort. Only this time, he chose to act through someone else. By means of... this.
+5624~dumbledore~Fortunately, our young Mr. Potter discovered it. One only hopes that no more of Lord Voldemort's old school things find their way into innocent hands. The consequences for the one responsible could be... severe.
+5625~lucius malfoy~Come, Dobby. We're leaving.
+5626~harry~Sir? I wonder if I could have that.
+5627~harry~Mr. Malfoy! I have something of yours.
+5628~lucius malfoy~Mine? I don't know what you're talking about.
+5629~harry~I think you do, sir. I think you slipped it into Ginny Weasley's cauldron that day in Diagon Alley.
+5630~lucius malfoy~Prove it!
+5631~lucious malfoy~Dobby!
+5632~dobby~Master has given Dobby a sock. Master has presented Dobby with clothes. Dobby is... free!
+5633~lucius malfoy~What? I didn't --
+5634~lucius malfoy~You've lost me my servant!
+5635~dobby~You shall not harm Harry Potter!
+5636~lucius malfoy~Mark my words, Harry Potter. You'll meet the same sticky end as your parents one of these days. They were meddlesome fools too.
+5637~dobby~Harry Potter freed Dobby! How can Dobby ever repay him?
+5638~harry~Just promise me something.
+5639~dobby~Anything, sir.
+5640~harry~Never try to save my life again.
+5641~hermione~You solved it! You solved it!
+5642~harry~With loads of help from you.
+5643~ron~Welcome back, Hermione.
+5644~dumbledore~Before we begin our feast, let's give a round of applause to Professor Sprout and Madame Pomfrey, whose Mandrake Juice has been successfully administered to all those who had been petrified.
+5645~dumbledore~Also, in the wake of recent events, as a school treat, all exams have been cancelled.
+5646~hermione~Oh, no!
+5647~hagrid~Sorry I'm late. The owl deliverin' my release papers got all lost 'n confused. Some ruddy bird named Errol.
+5648~hagrid~I jus' want to say... that if it wasn't fer' you, Harry... you an' Ron... and Hermione... Well, I jus' want to say... Thanks.
+5649~harry~There's no Hogwarts without you, Hagrid.

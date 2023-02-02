@@ -1,0 +1,99 @@
+.root {
+    -fx-font-size: 14pt;
+    -fx-font-family: "Tahoma";
+    -fx-base: #DFB951;
+    -fx-background: #A78732;
+    -fx-focus-color: #B6A678;
+}
+
+.menubg {
+	-fx-background-color: #DFB951;
+    -fx-border-radius: 40;
+    -fx-background-radius: 20;
+    -fx-padding: 5;
+}
+
+.user_field {
+    -fx-background-color: white;
+    -fx-text-fill: black;
+    -fx-background-radius: 15px;
+    -fx-border-radius: 15px;
+    -fx-padding: 15px;
+    -fx-border-color: black;
+    -fx-border-width: 8px;
+    -fx-border-insets: -4px;
+}
+
+.user_field:focused {
+    -fx-background-color: #fffeee;
+}
+
+
+
+.check-combo-box-base {
+	-fx-background-color: -fx-shadow-highlight-color, -fx-outer-border, -fx-inner-border, -fx-body-color;
+    -fx-background-insets: 0 0 -1 0, 0, 1, 2;
+    -fx-background-radius: 3px, 3px, 2px, 1px;
+   	-fx-text-fill: -fx-text-base-color;
+    -fx-alignment: CENTER;
+    -fx-content-display: LEFT;
+}
+
+.toggle {
+	-fx-fill: white;
+	-fx-text-fill: white;
+	-toggle-display: left;
+	-fx-background-color: rgb(255,255,255, 0.8);
+}
+.toggle:focused {
+	-fx-fill: yellow;
+	-toggle-display: left;
+}
+.toggle *.text {
+	-fx-text-alignment: center;
+	-fx-text-fill: white;
+	-fx-background-color: white;
+}
+
+.button1 {
+	-fx-font-size:15;
+}
+
+.movie_menu {
+	-fx-font-size:15;
+}
+.talker_menu {
+	-fx-font-size:15;
+}
+
+.response {
+    -fx-text-fill: white;
+    -fx-background-color: transparent;
+}
+.response *.text {
+    -fx-text-alignment: center;
+    -fx-stroke: black;
+    -fx-stroke-width: 1px;
+}
+.response .scroll-pane {
+    -fx-background-color: transparent;
+}
+.response .scroll-pane .viewport{
+    -fx-background-color: transparent;
+}
+.response .scroll-pane .content{
+    -fx-background-color: transparent;
+}
+/*
+
+.response .content {
+	-fx-background-color: rgba(0,0,0,0.7);
+}
+.response:focused .content {
+	-fx-background-color: rgba(0,0,0,0.4);
+}
+
+    -fx-display-caret:true;
+    -fx-text-shadow: 2px 2px 5px white;
+
+*/
